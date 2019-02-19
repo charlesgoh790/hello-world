@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+HI HUMANS!
+
+Goh's here, I like to play guitar ( it makes me happy ).
